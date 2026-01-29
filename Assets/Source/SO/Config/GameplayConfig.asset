@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d845ff3cdd8e3542b086093cf1d70ad, type: 3}
+  m_Name: GameplayConfig
+  m_EditorClassIdentifier: 
+  _minLengthTablet: 14
+  _countColumnPhone: 2
+  _countColumnTablet: 3
+  _urlConfig: {fileID: 11400000, guid: 1558e0bec7c54ae4aa9c868f66426691, type: 2}
